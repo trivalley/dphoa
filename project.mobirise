@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DPHOA",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,9 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 55,
-    "versionPublish": "4.1.7"
+    "versionPublish": "4.1.7",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {

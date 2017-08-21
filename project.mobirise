@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DPHOA",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -558,8 +558,8 @@
     },
     "page1.html": {
       "settings": {
-        "meta_descr": "Site Generator Description",
-        "title": "Page 1",
+        "meta_descr": "",
+        "title": "CCand R's",
         "order": 1
       },
       "components": [
@@ -700,8 +700,8 @@
     },
     "page2.html": {
       "settings": {
-        "title": "Web Page Generator Title",
-        "meta_descr": "Web Page Generator Description"
+        "title": "Pool Rules",
+        "meta_descr": ""
       },
       "components": [
         {
@@ -841,8 +841,8 @@
     },
     "page3.html": {
       "settings": {
-        "title": "Web Page Generator Title",
-        "meta_descr": "Web Page Generator Description"
+        "title": "Governing  Documents",
+        "meta_descr": ""
       },
       "components": [
         {
@@ -982,8 +982,8 @@
     },
     "page4.html": {
       "settings": {
-        "title": "Web Builder Title",
-        "meta_descr": "Web Builder Description"
+        "title": "Keys",
+        "meta_descr": ""
       },
       "components": [
         {

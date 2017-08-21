@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 54,
+    "uniqCompNum": 55,
     "versionPublish": "4.1.7"
   },
   "pages": {
@@ -469,13 +469,13 @@
               "active": true,
               "link": "page1.html",
               "size": 0,
-              "newWindow": false
+              "newWindow": true
             }
           },
           "title1": "CC&amp;R's",
           "subtitle1": "Covenants, Conditions &amp; Restrictions",
           "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -486,13 +486,13 @@
               "link": "page2.html",
               "size": 0,
               "color": "#27aae0",
-              "newWindow": false
+              "newWindow": true
             }
           },
           "title2": "Pool Rules",
           "subtitle2": "So everyone can enjoy.",
           "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -502,13 +502,13 @@
               "active": true,
               "link": "page3.html",
               "size": 0,
-              "newWindow": false
+              "newWindow": true
             }
           },
           "title3": "Association Documents",
           "subtitle3": "Access our Association Documents, applications, and other helpful information",
           "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -518,13 +518,13 @@
               "active": true,
               "link": "page4.html",
               "size": 0,
-              "newWindow": false
+              "newWindow": true
             }
           },
           "title4": "Pool/Tennis Court Keys",
           "subtitle4": "Our keys carry responsibilities.",
           "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media5": {
             "iconFont": {
               "active": true,

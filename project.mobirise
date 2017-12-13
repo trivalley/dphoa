@@ -22,8 +22,8 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 56,
-    "versionPublish": "4.1.7",
+    "uniqCompNum": 58,
+    "versionPublish": "4.0.12",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -272,7 +272,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "The pool is open. Enjoy!",
+          "title": "The pool is closed.&nbsp;",
           "meta": "&nbsp;"
         },
         {
@@ -364,7 +364,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>4/26/17\r</blockquote><blockquote>The entire asphalt pathway is scheduled to be replaced starting Monday, May 8th @ 8:00a.m. through Friday, May 12th @ 6:00 p.m. During that time, the pathways and play structure will be closed due to heavy equipment and safety. The schedule is subject to weather and soil conditions.</blockquote>"
+          "text": "<blockquote>4/26/17\n</blockquote><blockquote>The entire asphalt pathway is scheduled to be replaced starting Monday, May 8th @ 8:00a.m. through Friday, May 12th @ 6:00 p.m. During that time, the pathways and play structure will be closed due to heavy equipment and safety. The schedule is subject to weather and soil conditions.</blockquote>"
         },
         {
           "_tags": [
@@ -575,7 +575,7 @@
       "settings": {
         "meta_descr": "",
         "title": "CCand R's",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -716,7 +716,8 @@
     "page2.html": {
       "settings": {
         "title": "Pool Rules",
-        "meta_descr": ""
+        "meta_descr": "",
+        "order": 3
       },
       "components": [
         {
@@ -857,7 +858,8 @@
     "page3.html": {
       "settings": {
         "title": "Governing  Documents",
-        "meta_descr": ""
+        "meta_descr": "",
+        "order": 4
       },
       "components": [
         {
@@ -998,7 +1000,8 @@
     "page4.html": {
       "settings": {
         "title": "Keys",
-        "meta_descr": ""
+        "meta_descr": "",
+        "order": 5
       },
       "components": [
         {

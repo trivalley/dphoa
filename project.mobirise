@@ -272,7 +272,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "The pool is open.<br><br>&nbsp;",
+          "title": "The pool is Closed.<br><br>&nbsp;",
           "meta": "&nbsp;"
         },
         {
@@ -286,7 +286,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>5/26/18</p><p><br></p><p>The Tennis court project will begin in about two weeks.</p></blockquote>"
+          "text": "<blockquote><p>10/26/18</p><p><br></p><p>The Tennis/Basketball court project has been completed.</p></blockquote>"
         },
         {
           "_tags": [
@@ -325,7 +325,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>1/1/16</blockquote><blockquote>The Tennis Courts are closed until further notice due to maintenance requirements..</blockquote>"
+          "text": ""
         },
         {
           "_styles": {

@@ -23,7 +23,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 59,
-    "versionPublish": "4.9.5",
+    "versionPublish": "4.10.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -188,7 +188,7 @@
             "showArrow": true,
             "imageSize": "38",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1244-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/017-2000x1500.jpeg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -276,7 +276,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "The pool is Closed.<br><br>&nbsp;",
+          "title": "The Pool is Open.<br><br>&nbsp;",
           "meta": "&nbsp;"
         },
         {

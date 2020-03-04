@@ -23,7 +23,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 59,
-    "versionPublish": "3.12.1",
+    "versionPublish": "4.0.12",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -97,17 +97,17 @@
           "_name": "menu",
           "_anchor": "menu-d",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -140,23 +140,23 @@
           },
           "_anchor": "header1-0",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
             "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/230-2000x1125.jpg",
-            "bgColor": "#a07e49",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "title": "Danville Place HOA",
           "text": "Welcome to Danville Place  <br><br><b>Danville Place Homeowners Association is one of Danville's finest family communities. This beautifully planned community nestled at the base of the foothills was developed  in 1976. The Association consists of 168 homes and 13 acres of spacious greenbelts, mature landscaping with a creek, and walking paths.<br><br>Its amenities include tennis courts, a full length 25 meter racing pool, children's wading pool and playground. The schools that serve our area include award winning San Ramon Valley High School, John Baldwin Elementary, and Charlotte Wood Middle School which is within easy walking distance along private greenbelt pathways. We are adjacent to Osage Park and just minutes away from convenient shopping and downtown Danville by foot or bicycle on the Iron Horse Trail.<br><br>The Association is governed by a Board of Directors and managed by a management company. The board oversees the maintenance and improvements of Association properties which might affect the quality of living for its residents.<br><br>Danville Place in Danville, CA is truly a wonderful community to live and raise a family.</b><br>",
@@ -181,24 +181,24 @@
           },
           "_anchor": "header2-1",
           "_params": {
-            "imageSize": "38",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/017-2000x1500.jpeg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": true
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": "38",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/017-2000x1500.jpeg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
           },
           "media": {
             "image": {
@@ -219,7 +219,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Contact Us</span><div><span style=\"font-weight: normal;\">Danville Place Homeowners Association is managed by Howe Association Management, Inc. For routine and urgent matters, please contact them at the following.&nbsp;</span></div>",
-          "text": "Hours of Operation<br>Mon - Fri<br>8 a.m. - 5 p.m.&nbsp;<br>Address:<br><br> Howe Association  Mgmt, Inc. <br> 485 Hartz Avenue<br> Danville, CA 94526<br> tel: 925.837.2805<br> fax: 925.837.2899<br> e-mail: <br>howe_general@sbcglobal.net &nbsp;(for Maintenance/Landscape/Tree Issues)<br>howe_applications@sbcglobal.net &nbsp;(for Architectural Applications/Violations)<br> www.howemanagement.com<br><br>Board Members<br> Pres - Dave Childs<br> e-mail: dave@dphoa.us<br>V.P -&nbsp;Barry Wood<br>e-mail: barry@dphoa.com<br>Treasurer - Jim Jelincic\n<br>e-mail: jim@dphoa.us<br>Secretary - Ken Winters<br> e-mail: ken@dphoa.com<br><br><br><br>",
+          "text": "Hours of Operation<br>Mon - Fri<br>8 a.m. - 5 p.m.&nbsp;<br>Address:<br><br> Howe Association  Mgmt, Inc. <br> 485 Hartz Avenue<br> Danville, CA 94526<br> tel: 925.837.2805<br> fax: 925.837.2899<br> e-mail: <br>howe_general@sbcglobal.net &nbsp;(for Maintenance/Landscape/Tree Issues)<br>howe_applications@sbcglobal.net &nbsp;(for Architectural Applications/Violations)<br> www.howemanagement.com<br><br>Board Members<br> Pres - Dave Childs<br> e-mail: dave@dphoa.us<br>V.P -&nbsp;Barry Wood<br>e-mail: barry@dphoa.com<br>Treasurer - Jim Jelincic\n<br>e-mail: jim@dphoa.us<br>Secretary - Ken Winters<br> e-mail: ken@dphoa.us<br>Director at Large: Alan Evans<br>e-mail: alan@dphoa.us<br><br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -234,23 +234,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-2",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/pool-party-2000x1500.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": 0.5
           },
           "title": "News &amp; Events",
           "text": "<p>.</p>",
@@ -271,12 +271,12 @@
           "_name": "header3",
           "_anchor": "header3-3",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
-          "title": "The Pool is Open.<br><br>&nbsp;",
+          "title": "The Pool is Closed.<br><br>&nbsp;",
           "meta": "&nbsp;"
         },
         {
@@ -290,7 +290,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><b>5/17/19</b></p><p><b>The pool will be open for use on Memorial Weekend.</b></p><p><b><br></b></p><p><br></p></blockquote>"
+          "text": "<blockquote><p><b>10/23/19</b></p><p><b>We hope everyone enjoyed the Summer! Next year, look for our new shade arbor.</b></p><p><b><br></b></p><p><br></p></blockquote>"
         },
         {
           "_tags": [
@@ -356,23 +356,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-i",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/007-2000x1125.jpg",
-            "bgColor": "#F2F2F2",
+            "bgImage": "@PROJECT_PATH@/assets/images/dphoa-pool-2000x1125.jpg",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": 0.5
           },
           "title": "Members Only",
           "text": "",
@@ -391,27 +391,27 @@
           },
           "_anchor": "features2-h",
           "_params": {
-            "columnsColor": "#2e2e2e",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "iconFont": {
@@ -571,17 +571,17 @@
           "_name": "menu",
           "_anchor": "menu-k",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -614,23 +614,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-l",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/1021-2000x3555.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": 0.5
           },
           "title": "CC&amp;R's",
           "text": "",
@@ -713,17 +713,17 @@
           "_name": "menu",
           "_anchor": "menu-n",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -756,23 +756,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-o",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/605-2000x1125.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": 0.5
           },
           "title": "Pool Rules",
           "text": "",
@@ -855,17 +855,17 @@
           "_name": "menu",
           "_anchor": "menu-s",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -898,23 +898,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-t",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/1330-2000x3555.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": 0.5
           },
           "title": "Association Documents",
           "text": "",
@@ -997,17 +997,17 @@
           "_name": "menu",
           "_anchor": "menu-v",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1040,23 +1040,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-w",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/605-2000x1125.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0",
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": "0"
           },
           "title": "Pool/Tennis court Keys",
           "text": "",

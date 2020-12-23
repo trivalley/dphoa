@@ -23,13 +23,15 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 59,
-    "versionPublish": "4.0.12",
+    "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "siteFonts": []
+    "siteFonts": [],
+    "imageResize": true,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -147,7 +149,7 @@
             "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/230-2000x1125.jpg",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
             "bgVideoRadio": false,
@@ -204,7 +206,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg"
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -219,7 +221,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Contact Us</span><div><span style=\"font-weight: normal;\">Danville Place Homeowners Association is managed by Howe Association Management, Inc. For routine and urgent matters, please contact them at the following.&nbsp;</span></div>",
-          "text": "Hours of Operation<br>Mon - Fri<br>8 a.m. - 5 p.m.&nbsp;<br>Address:<br><br> Howe Association  Mgmt, Inc. <br> 485 Hartz Avenue<br> Danville, CA 94526<br> tel: 925.837.2805<br> fax: 925.837.2899<br> e-mail: <br>howe_general@sbcglobal.net &nbsp;(for Maintenance/Landscape/Tree Issues)<br>howe_applications@sbcglobal.net &nbsp;(for Architectural Applications/Violations)<br> www.howemanagement.com<br><br>Board Members<br> Pres -&nbsp;<br> e-mail:&nbsp;<br>V.P -&nbsp;Barry Wood<br>e-mail: barry@dphoa.com<br>Treasurer - Jim Jelincic\n<br>e-mail: jim@dphoa.us<br>Secretary - Ken Winters<br> e-mail: ken@dphoa.us<br>Director at Large: Alan Evans<br>e-mail: alan@dphoa.us<br><br><br><br>",
+          "text": "Hours of Operation<br>Mon - Fri<br>8 a.m. - 5 p.m.&nbsp;<br>Address:<br><br> Howe Association  Mgmt, Inc. <br> 485 Hartz Avenue<br> Danville, CA 94526<br> tel: 925.837.2805<br> fax: 925.837.2899<br> e-mail: <br>howe_general@sbcglobal.net &nbsp;(for Maintenance/Landscape/Tree Issues)<br>howe_applications@sbcglobal.net &nbsp;(for Architectural Applications/Violations)<br> www.howemanagement.com<br><br>Board Members<br> Pres -&nbsp;Jim Jelincic<br> e-mail:&nbsp;jim@dphoa.us<br>V.P -&nbsp;Ken Winters<br>e-mail:&nbsp;ken@dphoa.us<br>Treasurer -&nbsp;&nbsp;Barry Wood<br>e-mail:&nbsp;barry@dphoa.com<br>Secretary -&nbsp;Alan Evans&nbsp;<br> e-mail:&nbsp;alan@dphoa.us<br>Director at Large:&nbsp;Willy Brun<br>e-mail: willy@dphoa.us<br><br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {

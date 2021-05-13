@@ -533,10 +533,6 @@ section.form .container {
 #header3-3 H3 {
   text-align: right;
 }
-#msg-box8-i .mbr-section-title,
-#msg-box8-i p {
-  color: #fff;
-}
 #features2-h .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }

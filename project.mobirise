@@ -22,15 +22,20 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 59,
-    "versionPublish": "5.2.0",
+    "uniqCompNum": 58,
+    "versionPublish": "5.3.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "",
-    "noImageResize": "",
-    "google-analytics": "",
     "siteFonts": [],
+    "favicon": false,
+    "mbrsiteDomain": "2kimf0bazx",
     "imageResize": true,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "publishChangesOnly": true
   },
   "pages": {
@@ -128,7 +133,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">dphoa.us</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://dphoa.us\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-1\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-2\">News &amp; Events<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-i\" style=\"text-align: left; display: inline !important;\">Members Only</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://dphoa.us\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-1\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-2\">News &amp; Events<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-i\" style=\"text-align: left; display: inline !important;\">Members Only</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -149,7 +154,7 @@
             "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/230-2000x1125.jpg",
-            "parallax": false,
+            "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
             "bgVideoRadio": false,
@@ -162,7 +167,7 @@
           },
           "title": "Danville Place HOA",
           "text": "Welcome to Danville Place  <br><br><b>Danville Place Homeowners Association is one of Danville's finest family communities. This beautifully planned community nestled at the base of the foothills was developed  in 1976. The Association consists of 168 homes and 13 acres of spacious greenbelts, mature landscaping with a creek, and walking paths.<br><br>Its amenities include tennis courts, a full length 25 meter racing pool, children's wading pool and playground. The schools that serve our area include award winning San Ramon Valley High School, John Baldwin Elementary, and Charlotte Wood Middle School which is within easy walking distance along private greenbelt pathways. We are adjacent to Osage Park and just minutes away from convenient shopping and downtown Danville by foot or bicycle on the Iron Horse Trail.<br><br>The Association is governed by a Board of Directors and managed by a management company. The board oversees the maintenance and improvements of Association properties which might affect the quality of living for its residents.<br><br>Danville Place in Danville, CA is truly a wonderful community to live and raise a family.</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.danville.ca.gov/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Town of Danville The Heart of &nbsp;San Ramon Valley</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.danville.ca.gov/About-Danville/Community-Profile/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Town of Danville The Heart of &nbsp;San Ramon Valley</a> "
         },
         {
           "_tags": [
@@ -190,7 +195,7 @@
             "showArrow": true,
             "imageSize": "38",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/017-2000x1500.jpeg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1244-2000x1125.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -221,7 +226,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Contact Us</span><div><span style=\"font-weight: normal;\">Danville Place Homeowners Association is managed by Howe Association Management, Inc. For routine and urgent matters, please contact them at the following.&nbsp;</span></div>",
-          "text": "Hours of Operation<br>Mon - Fri<br>8 a.m. - 5 p.m.&nbsp;<br>Address:<br><br> Howe Association  Mgmt, Inc. <br> 485 Hartz Avenue<br> Danville, CA 94526<br> tel: 925.837.2805<br> fax: 925.837.2899<br> e-mail: <br>howe_general@sbcglobal.net &nbsp;(for Maintenance/Landscape/Tree Issues)<br>howe_applications@sbcglobal.net &nbsp;(for Architectural Applications/Violations)<br> www.howemanagement.com<br><br>Board Members<br> Pres -&nbsp;Jim Jelincic<br> e-mail:&nbsp;jim@dphoa.us<br>V.P -&nbsp;Ken Winters<br>e-mail:&nbsp;ken@dphoa.us<br>Treasurer -&nbsp;&nbsp;Barry Wood<br>e-mail:&nbsp;barry@dphoa.com<br>Secretary -&nbsp;Alan Evans&nbsp;<br> e-mail:&nbsp;alan@dphoa.us<br>Director at Large:&nbsp;Willy Brun<br>e-mail: willy@dphoa.us<br><br><br><br>",
+          "text": "Hours of Operation<br>Mon - Fri<br>8 a.m. - 5 p.m.&nbsp;<br>Address:<br><br> Howe Association  Mgmt, Inc. <br> 485 Hartz Avenue<br> Danville, CA 94526<br> tel: 925.837.2805<br> fax: 925.837.2899<br> e-mail: howeinc@sbcglobal.net<br> www.howemanagement.com<br><br>Board Members<br> Pres - Dave Childs<br> e-mail: dave@dphoa.us<br>V.P -&nbsp;Barry Wood<br>e-mail: barry@dphoa.com<br>Treasurer - Jim Jelincic\n<br>e-mail: jim@dphoa.us<br>Secretary - Ken Winters<br> e-mail: ken@dphoa.com<br><br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -278,21 +283,47 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "The Pool is Closed.<br><br>&nbsp;",
+          "title": "The pool is closed.&nbsp;",
           "meta": "&nbsp;"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>8/22/17</p><p><br></p><p>The last section of pathway will be done this Friday 8/25/17.</p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1j"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content2",
-          "_anchor": "content2-1j",
+          "_anchor": "content2-11",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><b style=\"font-size: 1.07rem;\">5/4/2020</b></p><p><b style=\"font-size: 1.07rem;\">As of today, the tennis courts are open but basketball is still not permitted per the County.</b></p><p><b style=\"font-size: 1.07rem;\"><br></b></p><p><b style=\"font-size: 1.07rem;\">4/1/20</b></p><p><b>We are following guidelines from State Governor &amp; the CDC regarding COVID-19.</b></p><p><b>The tennis courts, Playground &amp; Pool will be closed until further notice.</b></p><p><b><br></b></p><p><b>4/1/20</b></p><p><b>Due to COVID-19 and State guidelines, the construction of our arbor has been placed on hold until further notice.</b></p><p><b style=\"font-size: 1.07rem;\"><br></b></p><p><b style=\"font-size: 1.07rem;\">3/4/20</b><br></p><p><b>The construction of our new shade arbor should begin next week. It should be completed within 3-4 weeks.</b></p><p><b><br></b></p><p><br></p></blockquote>"
+          "text": "<blockquote>8/19/17</blockquote><blockquote>You should have received a letter regarding our Tennis Courts. The board would appreciate your input regarding what to do with them. Please make your opinion known by September 9. The board anticipates getting the project underway within a few months .</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-10",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></blockquote><blockquote>7/15/17</blockquote><blockquote>The asphalt company missed a section of our pathways. The grinder was moved  to another job before it was noticed and it’s now being used elsewhere. We do not have a firm date for the completion, but it should be done sometime in September.</blockquote>"
         },
         {
           "_tags": [
@@ -305,20 +336,60 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<div></div>"
+          "text": "<blockquote>6/15/17</blockquote><blockquote>Pardon the mess. The long awaited asphalt pathway project has been rescheduled. The work should now begin on July 10 and continue until the 14th.</blockquote>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content2",
-          "_anchor": "content2-1m",
+          "_anchor": "content2-y",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><b>10/23/19\r</b></p><p><b>We hope everyone enjoyed the Summer! Next year, look for our new shade arbor.</b></p></blockquote>"
+          "text": "<br><blockquote>The pool is open May 27. Enjoy!</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-4",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>4/30/17</blockquote><blockquote>The asphalt pathway project has been delayed until possibly late June or early July due to wet soil conditions. The schedule is still subject to weather and soil conditions.&nbsp;</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>4/26/17\n</blockquote><blockquote>The entire asphalt pathway is scheduled to be replaced starting Monday, May 8th @ 8:00a.m. through Friday, May 12th @ 6:00 p.m. During that time, the pathways and play structure will be closed due to heavy equipment and safety. The schedule is subject to weather and soil conditions.</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-5",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "",
+          "text2": ""
         },
         {
           "_tags": [
@@ -331,7 +402,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": ""
+          "text": "<blockquote>4/26/17</blockquote><blockquote>The pool will be open Saturday May 27, Please remember to close the umbrellas when you leave - even if you think someone else will be using it. If you see others left open, please help us and close them too. We commonly get sudden gusts of wind that will break them in half if left open.&nbsp;</blockquote>"
         },
         {
           "_tags": [
@@ -344,7 +415,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": ""
+          "text": "<blockquote>1/1/16</blockquote><blockquote>The Tennis Courts are closed until further notice due to maintenance requirements..</blockquote>"
         },
         {
           "_styles": {
@@ -602,7 +673,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">dphoa.us</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://dphoa.us\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-1\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-2\">News &amp; Events<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-i\" style=\"text-align: left; display: inline !important;\">Members Only</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://dphoa.us\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-1\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-2\">News &amp; Events<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-i\" style=\"text-align: left; display: inline !important;\">Members Only</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -744,7 +815,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">dphoa.us</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://dphoa.us\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-1\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-2\">News &amp; Events<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-i\" style=\"text-align: left; display: inline !important;\">Members Only</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://dphoa.us\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-1\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-2\">News &amp; Events<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-i\" style=\"text-align: left; display: inline !important;\">Members Only</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -886,7 +957,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">dphoa.us</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://dphoa.us\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-1\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-2\">News &amp; Events<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-i\" style=\"text-align: left; display: inline !important;\">Members Only</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://dphoa.us\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-1\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-2\">News &amp; Events<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-i\" style=\"text-align: left; display: inline !important;\">Members Only</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1028,7 +1099,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">dphoa.us</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://dphoa.us\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-1\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-2\">News &amp; Events<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-i\" style=\"text-align: left; display: inline !important;\">Members Only</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://dphoa.us\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-1\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-2\">News &amp; Events<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-i\" style=\"text-align: left; display: inline !important;\">Members Only</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {

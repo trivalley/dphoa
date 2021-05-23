@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DPHOA",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -883,7 +883,7 @@
         }
       ]
     },
-    "page7.html": {
+    "page5.html": {
       "settings": {
         "title": "For Members Only",
         "meta_descr": "",

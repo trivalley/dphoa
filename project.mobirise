@@ -996,7 +996,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/20210520-0830531-2000x946.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/20210520-83037-2000x946.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#41a85f",

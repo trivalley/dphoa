@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DPHOA",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -19,10 +19,11 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 58,
+    "uniqCompNum": 76,
     "versionPublish": "5.3.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -133,7 +134,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">dphoa.us</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://dphoa.us\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-1\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-2\">News &amp; Events<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-i\" style=\"text-align: left; display: inline !important;\">Members Only</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://dphoa.us\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-1\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-2\">News &amp; Events<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page7.html\" style=\"text-align: left; display: inline !important;\">Members Only</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -311,6 +312,706 @@
             "bgColor": "#fff"
           },
           "text": "<br><blockquote><br></blockquote>"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "",
+        "title": "CCand R's",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-k",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dphoalogotrans.gif",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://dphoa.us",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">dphoa.us</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://dphoa.us\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-1\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-2\">News &amp; Events<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page7.html\" style=\"text-align: left; display: inline !important;\">Members Only</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-l",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1021-2000x3555.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CC&amp;R's",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>CC&amp;R’s\n</p><p></p><p>\nDeclaration of Covenants, Conditions and Restrictions\n</p><p></p><p>\nWhen you buy your house in Danville Place, the title company handling your escrow must give you a copy of the CC&amp;Rs. It is important that every homeowner be aware of the Covenants, Conditions and Restrictions which affect his/her property. Your Association is run strictly in accordance with the CC&amp;Rs and reading them will give you a better understanding of the Association.\n</p><p></p><p>\nOur Architectural Control Committee reminds all residents of the covenants and restrictions regarding any alterations, repairs or additions to residences. No owner shall make structural alterations, repairs or additions which would substantially alter the exterior appearance thereof without the prior written approval of the plans and specifications  by the committee. All plans are to be submitted to Howe Association Management. You can download an application here.  You’ll need a login and password to enter. You can get it from the quarterly news letter or contact the management office..</p>"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Pool Rules",
+        "meta_descr": "",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-n",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dphoalogotrans.gif",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://dphoa.us",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">dphoa.us</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://dphoa.us\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-1\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-2\">News &amp; Events<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page7.html\" style=\"text-align: left; display: inline !important;\">Members Only</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-o",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/20210522-1407181-2000x946.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Pool Rules",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p>DANVILLE PLACE POOL RULES</p><p>&nbsp;</p><p>&nbsp; &nbsp;Hours:</p><p>&nbsp; &nbsp; 7AM to 8PM - 7 days per week&nbsp;</p><p>&nbsp;</p><p><br></p><p>These rules have been developed in order to preserve the beauty of our newly renovated pool area, and to create a safe and enjoyable experience for all members of our Association.  Your cooperation is greatly appreciated.</p><p>&nbsp;</p><p><br></p><p>1. Use of the pool or common areas by members and guests is at their own risk. THERE IS NO LIFEGUARD ON DUTY. The Association will not assume responsibility for illness, accident or injury suffered in or about the pools.</p><p><br></p><p>2. The pool is for residents and guests only. Admission to the pool area is controlled by the use of keys. All members using the pools are required to have their key with them at all times. The pool entrance gate must be kept closed and not propped open at any time. Do not open the gate to anyone without a key unless they are your personal guest.</p><p><br></p><p>3. No children under the age of 14 permitted without adult supervision. Owners/Residents are allowed one (1) Guest Family (maximum of 6)  per adult member at a time. Larger parties must seek prior approval by contacting the Management Company, filling out a request form, and paying a deposit. Guests will be accorded the privileges of the pool only when accompanied by an adult member/resident and only while the member/resident is present. When a member/resident leaves, all guests of that member must leave. Members/Residents are responsible for the actions and conduct of their guests.</p><p><br></p><p><span style=\"font-size: 1.07rem;\">4. No children over the age of 7 are allowed in or around the wading pool unless accompanied by an adult owner/resident member.</span><br></p><p><br></p><p>5. Save our water. Showers are for quick rinse-offs only.</p><p><br></p><p>6. Excessive suntan oil must be removed before entering the water.</p><p><br></p><p>7. Please remove hair clips, bobby pins, or any other metal objects before entering the pool area, as such items may cause rust stains in the pool. Pool DPHOA Pool Rules cont'd</p><p><br></p><p>8. Proper swim wear must be worn at all times. Children who are in diapers must wear leak proof rubber or plastic pants at all times, in and around the pool.</p><p><br></p><p>9. Small personal sized inflatables and life preservers used to aid swimmers  are allowed. No large or unsafe flotation devices permitted, such as plastic boats, rafts, surfboards, etc.</p><p><br></p><p>10. No glass objects of any type are permitted on the pool deck.</p><p><br></p><p>11. Food or gum must remain in lawn and table areas and not within 5 feet of the pool's edge.</p><p><br></p><p>12. All pool furniture and umbrellas must remain at least 5 feet away from the edge of the water.</p><p><br></p><p>13. The pool lift is for people with disabilities only. Please contact the Management Company for instructions and key information if the lift is required.</p><p><br></p><p>14. No rough behavior or climbing on fences, gates, retaining wall. No running on pool deck, stairs and sloped walkway. No loud music, water balloons, water guns, skates, skateboarding or bicycles are allowed.</p><p><br></p><p>15. Pets are not permitted in the pool or pool area at any time - CCR § 65533(b). Any homeowner violating this rule will be automatically fined a minimum of $50.</p><p><br></p><p>16. Barbecues are limited to lawn areas only and not on the deck due to staining risks to the concrete deck.</p><p><br></p><p>17. Smoking is not permitted within pool enclosure.</p><p><br></p><p>Courtesy Rules;</p><p>As we do not have daily maintenance............Please clean up after yourselves. Lower umbrellas and straighten furniture before leaving.</p><p>Due to limited trash removal services..........Please take excessive amounts of trash with you, especially pizza boxes and recyclables.</p>"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "Governing  Documents",
+        "meta_descr": "",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-s",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dphoalogotrans.gif",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://www.dphoa.us",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">dphoa.us</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://dphoa.us\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-1\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-2\">News &amp; Events<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page7.html\" style=\"text-align: left; display: inline !important;\">Members Only</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-t",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1330-2000x3555.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Association Documents",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Our Documents</p><p><br></p><p>Homeowners, you are able to access our Association Documents, applications and other helpful information on the Howe Association Management <a href=\"http://www.howemanagement.com/DanvillePlace/rules-documents.html\">website</a>. You’ll need a login and password to enter. You can get it from the quarterly news letter or contact the management office. You can also send the Management office emails directly from their website in the “Contact Us” section for accounting questions, to report CC&amp;R violations or work order requests.</p>"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "Keys",
+        "meta_descr": "",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-v",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dphoalogotrans.gif",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://www.dphoa.us",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">dphoa.us</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://dphoa.us\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-1\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-2\">News &amp; Events<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page7.html\" style=\"text-align: left; display: inline !important;\">Members Only</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-w",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/605-2000x1125.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0"
+          },
+          "title": "Pool/Tennis Court Keys",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Your Key</p><p><br></p><p>Our pool is one of our most valuable assets. From the Association's perspective, a swimming pool can add to the value of the residences and attract prospective buyers. It's also seen as an amenity that can bring the residents of a community together; a gathering place where people can  meet, relax, and socialize.</p><p>&nbsp;</p><p>However, managing and maintaining our swimming pool is a major investment in time, energy and money. In order for our pool to be safe, successful, and enjoyable, we must address many issues including liability, usage regulations and maintenance. Proper management is the key to retaining our pool's value and reducing our liabilities.</p><p><br></p><p>A common problem that all HOA’s have is controlling the use of their facilities by non-members, which can lead to vandalism and or increased liabilities. An obvious loss of control is when someone jumps the fence, but there is another less obvious problem that occurs. That problem is the access to the facilities with the use of unauthorized keys. When people sell their homes, or renters with keys move, the keys are not always accounted for. Some associations have reported that keys are  sometimes sold or given to friends inside as well as outside their neighborhood. To combat the unauthorized key problem and regain control, associations must re-key their facilities from time to time.&nbsp;</p><p><br></p><p>In order to start fresh and protect the investment in our newly remodeled pool facility, we  are in the process of re-keying and issuing new keys to our owners. We have also initiated a new policy that should minimize the access to our facility with the use of unauthorized keys. The new keys will be numbered. Each owner will be given one key only. More than one key per home will not be allowed. In the event that a key is lost or stolen, a progressive fee schedule has been instituted. The numbered key that is missing will be placed on a list. Pool monitors will check keys at the entry gate and confiscate any key that is on the list. Sellers  will also be reminded during escrow to transfer their key to the buyer to avoid fees.</p><p><br></p><p>We hope that our homeowners will appreciate the need to have a strong key policy and will fully and happily comply with it.&nbsp;</p><p><br></p><p>Enjoy!</p>"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "title": "For Members Only",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dphoalogotrans.gif",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://www.dphoa.us",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">dphoa.us</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://dphoa.us\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-1\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-2\">News &amp; Events<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page7.html\" style=\"text-align: left; display: inline !important;\">Members Only</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_anchor": "menu-1w"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead B": {
+              "font-size": "22px"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/20210520-0830531-2000x946.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#41a85f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Danville Place HOA",
+          "text": "Welcome to Danville Place  <br><br><b>Danville Place Homeowners Association is one of Danville's finest family communities. This beautifully planned community nestled at the base of the foothills was developed  in 1976. The Association consists of 168 homes and 13 acres of spacious greenbelts, mature landscaping with a creek, and walking paths.<br><br>Its amenities include tennis courts, a full length 25 meter racing pool, children's wading pool and playground. The schools that serve our area include award winning San Ramon Valley High School, John Baldwin Elementary, and Charlotte Wood Middle School which is within easy walking distance along private greenbelt pathways. We are adjacent to Osage Park and just minutes away from convenient shopping and downtown Danville by foot or bicycle on the Iron Horse Trail.<br><br>The Association is governed by a Board of Directors and managed by a management company. The board oversees the maintenance and improvements of Association properties which might affect the quality of living for its residents.<br><br>Danville Place in Danville, CA is truly a wonderful community to live and raise a family.</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://www.danville.ca.gov\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">For DPHOA Members Only</a> ",
+          "_anchor": "header1-1x"
         },
         {
           "_inherit": "features1",
@@ -323,7 +1024,6 @@
               "background-color": "#2e2e2e"
             }
           },
-          "_anchor": "features2-h",
           "_params": {
             "showImages": true,
             "showTitles": true,
@@ -439,575 +1139,21 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        }
-      ]
-    },
-    "page1.html": {
-      "settings": {
-        "meta_descr": "",
-        "title": "CCand R's",
-        "order": 2
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-k",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dphoalogotrans.gif",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "http://dphoa.us",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">dphoa.us</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://dphoa.us\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-1\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-2\">News &amp; Events<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-i\" style=\"text-align: left; display: inline !important;\">Members Only</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-l",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1021-2000x3555.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "CC&amp;R's",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_anchor": "features2-23"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-m",
+          "_name": "content2",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>CC&amp;R’s\n</p><p></p><p>\nDeclaration of Covenants, Conditions and Restrictions\n</p><p></p><p>\nWhen you buy your house in Danville Place, the title company handling your escrow must give you a copy of the CC&amp;Rs. It is important that every homeowner be aware of the Covenants, Conditions and Restrictions which affect his/her property. Your Association is run strictly in accordance with the CC&amp;Rs and reading them will give you a better understanding of the Association.\n</p><p></p><p>\nOur Architectural Control Committee reminds all residents of the covenants and restrictions regarding any alterations, repairs or additions to residences. No owner shall make structural alterations, repairs or additions which would substantially alter the exterior appearance thereof without the prior written approval of the plans and specifications  by the committee. All plans are to be submitted to Howe Association Management. You can download an application here.  You’ll need a login and password to enter. You can get it from the quarterly news letter or contact the management office..</p>"
-        }
-      ]
-    },
-    "page2.html": {
-      "settings": {
-        "title": "Pool Rules",
-        "meta_descr": "",
-        "order": 3
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-n",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dphoalogotrans.gif",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "http://dphoa.us",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">dphoa.us</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://dphoa.us\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-1\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-2\">News &amp; Events<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-i\" style=\"text-align: left; display: inline !important;\">Members Only</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-o",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/20210522-1407181-2000x946.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Pool Rules",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-r",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "1",
-            "bgColor": "#fff"
-          },
-          "text": "<p>DANVILLE PLACE POOL RULES</p><p>&nbsp;</p><p>&nbsp; &nbsp;Hours:</p><p>&nbsp; &nbsp; 7AM to 8PM - 7 days per week&nbsp;</p><p>&nbsp;</p><p><br></p><p>These rules have been developed in order to preserve the beauty of our newly renovated pool area, and to create a safe and enjoyable experience for all members of our Association.  Your cooperation is greatly appreciated.</p><p>&nbsp;</p><p><br></p><p>1. Use of the pool or common areas by members and guests is at their own risk. THERE IS NO LIFEGUARD ON DUTY. The Association will not assume responsibility for illness, accident or injury suffered in or about the pools.</p><p><br></p><p>2. The pool is for residents and guests only. Admission to the pool area is controlled by the use of keys. All members using the pools are required to have their key with them at all times. The pool entrance gate must be kept closed and not propped open at any time. Do not open the gate to anyone without a key unless they are your personal guest.</p><p><br></p><p>3. No children under the age of 14 permitted without adult supervision. Owners/Residents are allowed one (1) Guest Family (maximum of 6)  per adult member at a time. Larger parties must seek prior approval by contacting the Management Company, filling out a request form, and paying a deposit. Guests will be accorded the privileges of the pool only when accompanied by an adult member/resident and only while the member/resident is present. When a member/resident leaves, all guests of that member must leave. Members/Residents are responsible for the actions and conduct of their guests.</p><p><br></p><p><span style=\"font-size: 1.07rem;\">4. No children over the age of 7 are allowed in or around the wading pool unless accompanied by an adult owner/resident member.</span><br></p><p><br></p><p>5. Save our water. Showers are for quick rinse-offs only.</p><p><br></p><p>6. Excessive suntan oil must be removed before entering the water.</p><p><br></p><p>7. Please remove hair clips, bobby pins, or any other metal objects before entering the pool area, as such items may cause rust stains in the pool. Pool DPHOA Pool Rules cont'd</p><p><br></p><p>8. Proper swim wear must be worn at all times. Children who are in diapers must wear leak proof rubber or plastic pants at all times, in and around the pool.</p><p><br></p><p>9. Small personal sized inflatables and life preservers used to aid swimmers  are allowed. No large or unsafe flotation devices permitted, such as plastic boats, rafts, surfboards, etc.</p><p><br></p><p>10. No glass objects of any type are permitted on the pool deck.</p><p><br></p><p>11. Food or gum must remain in lawn and table areas and not within 5 feet of the pool's edge.</p><p><br></p><p>12. All pool furniture and umbrellas must remain at least 5 feet away from the edge of the water.</p><p><br></p><p>13. The pool lift is for people with disabilities only. Please contact the Management Company for instructions and key information if the lift is required.</p><p><br></p><p>14. No rough behavior or climbing on fences, gates, retaining wall. No running on pool deck, stairs and sloped walkway. No loud music, water balloons, water guns, skates, skateboarding or bicycles are allowed.</p><p><br></p><p>15. Pets are not permitted in the pool or pool area at any time - CCR § 65533(b). Any homeowner violating this rule will be automatically fined a minimum of $50.</p><p><br></p><p>16. Barbecues are limited to lawn areas only and not on the deck due to staining risks to the concrete deck.</p><p><br></p><p>17. Smoking is not permitted within pool enclosure.</p><p><br></p><p>Courtesy Rules;</p><p>As we do not have daily maintenance............Please clean up after yourselves. Lower umbrellas and straighten furniture before leaving.</p><p>Due to limited trash removal services..........Please take excessive amounts of trash with you, especially pizza boxes and recyclables.</p>"
-        }
-      ]
-    },
-    "page3.html": {
-      "settings": {
-        "title": "Governing  Documents",
-        "meta_descr": "",
-        "order": 4
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-s",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dphoalogotrans.gif",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "http://www.dphoa.us",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">dphoa.us</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://dphoa.us\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-1\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-2\">News &amp; Events<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-i\" style=\"text-align: left; display: inline !important;\">Members Only</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-t",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1330-2000x3555.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Association Documents",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-u",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Our Documents</p><p><br></p><p>Homeowners, you are able to access our Association Documents, applications and other helpful information on the Howe Association Management <a href=\"http://www.howemanagement.com/DanvillePlace/rules-documents.html\">website</a>. You’ll need a login and password to enter. You can get it from the quarterly news letter or contact the management office. You can also send the Management office emails directly from their website in the “Contact Us” section for accounting questions, to report CC&amp;R violations or work order requests.</p>"
-        }
-      ]
-    },
-    "page4.html": {
-      "settings": {
-        "title": "Keys",
-        "meta_descr": "",
-        "order": 5
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-v",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dphoalogotrans.gif",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "http://www.dphoa.us",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">dphoa.us</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://dphoa.us\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-1\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-2\">News &amp; Events<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-i\" style=\"text-align: left; display: inline !important;\">Members Only</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-w",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/605-2000x1125.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0"
-          },
-          "title": "Pool/Tennis Court Keys",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-x",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Your Key</p><p><br></p><p>Our pool is one of our most valuable assets. From the Association's perspective, a swimming pool can add to the value of the residences and attract prospective buyers. It's also seen as an amenity that can bring the residents of a community together; a gathering place where people can  meet, relax, and socialize.</p><p>&nbsp;</p><p>However, managing and maintaining our swimming pool is a major investment in time, energy and money. In order for our pool to be safe, successful, and enjoyable, we must address many issues including liability, usage regulations and maintenance. Proper management is the key to retaining our pool's value and reducing our liabilities.</p><p><br></p><p>A common problem that all HOA’s have is controlling the use of their facilities by non-members, which can lead to vandalism and or increased liabilities. An obvious loss of control is when someone jumps the fence, but there is another less obvious problem that occurs. That problem is the access to the facilities with the use of unauthorized keys. When people sell their homes, or renters with keys move, the keys are not always accounted for. Some associations have reported that keys are  sometimes sold or given to friends inside as well as outside their neighborhood. To combat the unauthorized key problem and regain control, associations must re-key their facilities from time to time.&nbsp;</p><p><br></p><p>In order to start fresh and protect the investment in our newly remodeled pool facility, we  are in the process of re-keying and issuing new keys to our owners. We have also initiated a new policy that should minimize the access to our facility with the use of unauthorized keys. The new keys will be numbered. Each owner will be given one key only. More than one key per home will not be allowed. In the event that a key is lost or stolen, a progressive fee schedule has been instituted. The numbered key that is missing will be placed on a list. Pool monitors will check keys at the entry gate and confiscate any key that is on the list. Sellers  will also be reminded during escrow to transfer their key to the buyer to avoid fees.</p><p><br></p><p>We hope that our homeowners will appreciate the need to have a strong key policy and will fully and happily comply with it.&nbsp;</p><p><br></p><p>Enjoy!</p>"
+          "text": "<br><blockquote><br></blockquote>",
+          "_anchor": "content2-22"
         }
       ]
     }

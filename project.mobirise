@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DPHOA",
-    "currentPage": "page2.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -992,7 +992,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0"
           },
-          "title": "Pool/Tennis court Keys",
+          "title": "Pool/Tennis Court Keys",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },

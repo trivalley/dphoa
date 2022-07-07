@@ -1,3 +1,9 @@
+@import url(../../../https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
+
 body,
 input,
 textarea,
@@ -403,50 +409,7 @@ h6,
   color: #c0a375;
 }
 .scrollToTop_wraper {
-  display: none;
-}
-.form-control {
-  padding: 0.9rem;
-}
-.align-center {
-  text-align: center;
-}
-.col,
-.col-12,
-.col-auto {
-  position: relative;
-  width: 100%;
-  min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px;
-}
-.col {
-  -ms-flex-preferred-size: 0;
-  flex-basis: 0;
-  -ms-flex-positive: 1;
-  flex-grow: 1;
-  max-width: 100%;
-}
-.col-auto {
-  -ms-flex: 0 0 auto;
-  flex: 0 0 auto;
-  width: auto;
-  max-width: none;
-}
-form a.btn {
-  margin: 0;
-}
-.mx-auto {
-  margin: 0 auto;
-}
-section.custom-form .container,
-section.form .container {
-  display: flex;
-}
-.form-row {
-  display: flex;
-  flex-wrap: wrap;
-  margin: 0 -15px;
+  opacity: 0 !important;
 }
 #menu-d .hide-buttons .nav-btn {
   display: none !important;

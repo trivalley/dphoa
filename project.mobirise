@@ -24,10 +24,9 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 76,
-    "versionPublish": "4.0.12",
+    "versionPublish": "5.3.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "mbrsite": "mbrsite://%7B%22id%22%3A99479%2C%22domain%22%3A%222kimf0bazx.mobirisesite.com%22%7D",
     "siteFonts": [],
     "favicon": false,
     "mbrsiteDomain": "2kimf0bazx",
@@ -135,7 +134,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"page5.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">dphoa.us</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://dphoa.us\" aria-expanded=\"false\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-1\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-2\">News &amp; Events<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page7.html\" style=\"text-align: left; display: inline !important;\">Members Only</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://dphoa.us\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-1\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-2\">News &amp; Events<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"page7.html\" style=\"text-align: left; display: inline !important;\">Members Only</a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -213,7 +212,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg"
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -272,6 +271,12 @@
             },
             "H3": {
               "text-align": "right"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "30px",
+              "color": "#000000",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
             }
           },
           "_tags": [
@@ -286,7 +291,7 @@
             "bgColor": "#fff"
           },
           "title": "&nbsp; &nbsp;<i style=\"font-weight: normal;\">&nbsp;</i>",
-          "meta": "&nbsp;"
+          "meta": "<b>The Pool is now open. Happy Memorial Day!&nbsp;</b><br><br><span style=\"font-style: normal;\">Please remember that no glass objects/bottles are allowed on the pool deck.</span>"
         },
         {
           "_tags": [

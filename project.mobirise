@@ -24,10 +24,9 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 76,
-    "versionPublish": "4.0.12",
+    "versionPublish": "5.3.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "mbrsite": "mbrsite://%7B%22id%22%3A99479%2C%22domain%22%3A%222kimf0bazx.mobirisesite.com%22%7D",
     "siteFonts": [],
     "favicon": false,
     "mbrsiteDomain": "2kimf0bazx",
@@ -213,7 +212,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg"
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -292,7 +291,7 @@
             "bgColor": "#fff"
           },
           "title": "&nbsp; &nbsp;<i style=\"font-weight: normal;\">&nbsp;</i>",
-          "meta": "<b>The Pool is now open!.&nbsp;</b><br><br><span style=\"font-style: normal;\">Please remember that no glass objects/bottles are allowed on the pool deck.</span>"
+          "meta": "<b>The Pool is now open!&nbsp;</b><br><br><span style=\"font-style: normal;\">Please remember that no glass objects/bottles are allowed on the pool deck.</span>"
         },
         {
           "_tags": [

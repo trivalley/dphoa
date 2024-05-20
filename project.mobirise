@@ -24,9 +24,10 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 76,
-    "versionPublish": "5.3.5",
+    "versionPublish": "4.0.12",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
+    "mbrsite": "mbrsite://%7B%22id%22%3A99479%2C%22domain%22%3A%222kimf0bazx.mobirisesite.com%22%7D",
     "siteFonts": [],
     "favicon": false,
     "mbrsiteDomain": "2kimf0bazx",
@@ -212,7 +213,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -291,7 +292,7 @@
             "bgColor": "#fff"
           },
           "title": "&nbsp; &nbsp;<i style=\"font-weight: normal;\">&nbsp;</i>",
-          "meta": "<b>The Pool is now closed.&nbsp;</b><br><br><span style=\"font-style: normal;\">Please remember that no glass objects/bottles are allowed on the pool deck.</span>"
+          "meta": "<b>The Pool is now open!.&nbsp;</b><br><br><span style=\"font-style: normal;\">Please remember that no glass objects/bottles are allowed on the pool deck.</span>"
         },
         {
           "_tags": [
@@ -317,7 +318,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><br></p><p></p><blockquote><p><b>6/7/22</b></p><p><b style=\"font-style: normal;\">Seeking Volunteers to serve on DPHOA Board</b></p><p><span style=\"font-style: normal;\">The Board of Directors are currently seeking a volunteer to serve out a vacant seat.&nbsp; More information will follow in this months Newsletter. Please feel free to contact Howe Management or any of the current board members for more information.</span></p></blockquote><p></p>"
+          "text": "<p><br></p><p></p><blockquote><p><b>6/7/22</b></p><p><b style=\"font-style: normal;\">Seeking Volunteers to serve on DPHOA Board</b></p><p><br></p></blockquote><p></p>"
         }
       ]
     },
